@@ -16,6 +16,6 @@ Or run directly:
 python greeter.py
 ```
 
-## Instalation
+## Installation
 
 No dependencies required — just Python 3.6+.
